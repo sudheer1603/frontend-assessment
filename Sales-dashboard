@@ -1,0 +1,6 @@
+# create folder and enter it
+mkdir sales-dashboard
+cd sales-dashboard
+
+# initialize a new Next.js + TypeScript + Tailwind app (example)
+npx create-next-app@latest . --typescript --tailwind
