@@ -1,0 +1,18 @@
+components/
+  atoms/
+    Button.tsx
+    Input.tsx
+  molecules/
+    ChartCard.tsx
+  organisms/
+    SalesChart.tsx
+  layouts/
+    DashboardLayout.tsx
+data/
+  salesData.ts
+pages/
+  index.tsx
+  dashboard.tsx
+styles/
+  globals.css
+README.md
